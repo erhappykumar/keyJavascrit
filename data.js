@@ -22,4 +22,4 @@ const js_string_innerHtml=` `;
 // css folder
 const css_border_innerHtml=` `;
 const css_color_innerHtml=` `;
-hi
+//hi
