@@ -56,4 +56,4 @@ section_left.addEventListener("click",(e)=>{
 
 //
 //new wgbffghf gfhhg
-//
+//gg
