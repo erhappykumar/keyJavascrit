@@ -8922,3 +8922,4 @@ yuy22:10:10.06 - 15594 - Automated entry
  5:01:52.80 - 16680 - Automated entry 
  5:01:55.71 - 1704 - Automated entry 
  5:01:58.57 - 3970 - Automated entry 
+ 5:02:01.37 - 2003 - Automated entry 
