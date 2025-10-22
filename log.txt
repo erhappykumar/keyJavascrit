@@ -5077,3 +5077,4 @@ yuy22:10:10.06 - 15594 - Automated entry
  2:06:18.76 - 32506 - Automated entry 
  2:06:21.46 - 25985 - Automated entry 
  2:06:24.29 - 27158 - Automated entry 
+ 2:06:27.19 - 4750 - Automated entry 
