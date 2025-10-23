@@ -49,10 +49,3 @@ setTimeout(()=>{const h2=document.querySelector('h2');
  
 
 //   })
-let updatedArr;
-const addLunchToEnd =(arr,str)=>{
-  
-  updatedArr= arr.push(str);
-  console.log(`${str} added to the end of the lunch menu.`);
-  return updatedArr;
-};addLunchToEnd(["Pizza", "Tacos"], "Burger")
