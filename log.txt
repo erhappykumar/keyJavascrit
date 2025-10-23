@@ -3296,3 +3296,4 @@
  1:00:56.35 - 25581 - Automated entry 
  1:00:59.03 - 30849 - Automated entry 
  1:01:01.90 - 11981 - Automated entry 
+ 1:01:04.60 - 383 - Automated entry 
