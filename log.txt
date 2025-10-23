@@ -5727,3 +5727,4 @@
  3:02:04.24 - 12095 - Automated entry 
  3:02:06.90 - 28637 - Automated entry 
  3:02:09.68 - 25943 - Automated entry 
+ 3:02:12.48 - 20057 - Automated entry 
