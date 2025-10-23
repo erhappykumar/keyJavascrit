@@ -10,10 +10,7 @@ setTimeout(()=>{const h2=document.querySelector('h2');
     h2.style.color="red";const t=document.querySelector(".t");t.style.color="purple"
 },0.000)
 
-let d={addredd:"sonu",vill};
-  d[1]=5;
-
-console.log(d)
+ 
 
 
 // const body=document.querySelector(".body");
