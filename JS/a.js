@@ -52,3 +52,10 @@ console.log(d)
  
 
 //   })
+let updatedArr;
+const addLunchToEnd =(arr,str)=>{
+  
+  updatedArr= arr.push(str);
+  console.log(`${str} added to the end of the lunch menu.`);
+  return updatedArr;
+};
