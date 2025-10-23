@@ -3790,3 +3790,4 @@
  1:24:53.48 - 20495 - Automated entry 
  1:24:56.50 - 21833 - Automated entry 
  1:24:59.08 - 3145 - Automated entry 
+ 1:25:01.67 - 1899 - Automated entry 
