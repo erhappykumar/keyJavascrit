@@ -10587,3 +10587,4 @@
  2:20:45.95 - 9966 - Automated entry 
  2:20:48.99 - 29472 - Automated entry 
  2:20:51.85 - 10374 - Automated entry 
+ 2:20:54.70 - 14864 - Automated entry 
