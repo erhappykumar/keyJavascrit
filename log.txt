@@ -9934,3 +9934,4 @@
  1:48:52.31 - 19850 - Automated entry 
  1:48:55.38 - 27430 - Automated entry 
  1:48:58.14 - 15800 - Automated entry 
+ 1:49:01.02 - 69 - Automated entry 
