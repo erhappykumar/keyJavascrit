@@ -9588,3 +9588,4 @@
  1:10:30.99 - 5699 - Automated entry 
  1:10:34.04 - 11885 - Automated entry 
  1:10:37.13 - 2050 - Automated entry 
+ 1:10:40.37 - 24504 - Automated entry 
