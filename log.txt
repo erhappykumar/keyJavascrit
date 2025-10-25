@@ -25393,3 +25393,4 @@
  1:00:40.98 - 22700 - Automated entry 
  1:00:44.05 - 29666 - Automated entry 
  1:00:46.91 - 23569 - Automated entry 
+ 1:00:49.71 - 5824 - Automated entry 
