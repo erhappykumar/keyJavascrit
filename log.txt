@@ -25860,3 +25860,4 @@
  1:25:16.62 - 4836 - Automated entry 
  1:25:19.76 - 24612 - Automated entry 
  1:25:23.02 - 23640 - Automated entry 
+ 1:25:25.84 - 17745 - Automated entry 
