@@ -8333,3 +8333,4 @@
  3:08:04.15 - 22374 - Automated entry 
  3:08:08.37 - 3133 - Automated entry 
  3:08:12.80 - 18036 - Automated entry 
+ 3:08:16.78 - 10761 - Automated entry 
