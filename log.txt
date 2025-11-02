@@ -38342,3 +38342,4 @@
  1:20:13.90 - 16458 - Automated entry 
  1:20:18.00 - 3333 - Automated entry 
  1:20:22.14 - 2947 - Automated entry 
+ 1:20:26.18 - 5996 - Automated entry 
