@@ -9385,3 +9385,4 @@
  2:01:33.50 - 14041 - Automated entry 
  2:01:36.17 - 255 - Automated entry 
  2:01:39.04 - 5184 - Automated entry 
+ 2:01:41.72 - 3150 - Automated entry 
