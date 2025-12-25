@@ -9372,3 +9372,4 @@
  2:00:58.10 - 30048 - Automated entry 
  2:01:00.71 - 28415 - Automated entry 
  2:01:03.64 - 15628 - Automated entry 
+ 2:01:06.43 - 10965 - Automated entry 
