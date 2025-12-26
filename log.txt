@@ -73397,3 +73397,4 @@
  1:30:20.67 - 30596 - Automated entry 
  1:30:21.41 - 30128 - Automated entry 
  1:30:22.15 - 26421 - Automated entry 
+ 1:30:22.94 - 249 - Automated entry 
