@@ -73437,3 +73437,4 @@
  1:30:49.95 - 17824 - Automated entry 
  1:30:50.62 - 30068 - Automated entry 
  1:30:51.24 - 13854 - Automated entry 
+ 1:30:51.96 - 1055 - Automated entry 
