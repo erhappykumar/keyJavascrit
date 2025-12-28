@@ -231331,3 +231331,4 @@
  1:25:00.50 - 21161 - Automated entry 
  1:25:01.37 - 8559 - Automated entry 
  1:25:02.31 - 23052 - Automated entry 
+ 1:25:03.52 - 15705 - Automated entry 
