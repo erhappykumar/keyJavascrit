@@ -40352,3 +40352,4 @@
  1:30:10.78 - 30888 - Automated entry 
  1:30:11.48 - 30853 - Automated entry 
  1:30:12.11 - 17458 - Automated entry 
+ 1:30:12.93 - 20682 - Automated entry 
