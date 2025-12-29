@@ -40161,3 +40161,4 @@
  1:28:03.85 - 30587 - Automated entry 
  1:28:05.85 - 2031 - Automated entry 
  1:28:06.71 - 30654 - Automated entry 
+ 1:28:07.44 - 16512 - Automated entry 
