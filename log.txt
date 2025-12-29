@@ -40359,3 +40359,4 @@
  1:30:15.61 - 18628 - Automated entry 
  1:30:16.24 - 18588 - Automated entry 
  1:30:17.05 - 21752 - Automated entry 
+ 1:30:17.68 - 5224 - Automated entry 
