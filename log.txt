@@ -41169,3 +41169,4 @@
  1:39:59.16 - 20080 - Automated entry 
  1:39:59.76 - 21406 - Automated entry 
  1:40:00.36 - 4608 - Automated entry 
+ 1:40:01.08 - 11464 - Automated entry 
