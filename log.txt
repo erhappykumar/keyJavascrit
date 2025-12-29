@@ -35033,3 +35033,4 @@
  0:30:00.85 - 22228 - Automated entry 
  0:30:01.65 - 12890 - Automated entry 
  0:30:02.25 - 3738 - Automated entry 
+ 0:30:02.81 - 27406 - Automated entry 
