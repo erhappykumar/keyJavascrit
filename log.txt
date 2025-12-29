@@ -40343,3 +40343,4 @@
  1:30:04.90 - 19367 - Automated entry 
  1:30:05.54 - 28669 - Automated entry 
  1:30:06.24 - 9656 - Automated entry 
+ 1:30:06.86 - 18559 - Automated entry 
