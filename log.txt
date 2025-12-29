@@ -40345,3 +40345,4 @@
  1:30:06.24 - 9656 - Automated entry 
  1:30:06.86 - 18559 - Automated entry 
  1:30:07.68 - 20402 - Automated entry 
+ 1:30:08.24 - 31027 - Automated entry 
