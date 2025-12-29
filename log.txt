@@ -44403,3 +44403,4 @@
  2:17:00.80 - 20835 - Automated entry 
  2:17:01.52 - 6004 - Automated entry 
  2:17:02.08 - 6932 - Automated entry 
+ 2:17:02.67 - 25579 - Automated entry 
