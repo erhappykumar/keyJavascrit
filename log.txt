@@ -143671,3 +143671,4 @@
  1:30:20.50 - 4777 - Automated entry 
  1:30:21.86 - 12133 - Automated entry 
  1:30:23.69 - 11110 - Automated entry 
+ 1:30:25.48 - 10297 - Automated entry 
