@@ -145874,3 +145874,4 @@
  2:10:28.28 - 20580 - Automated entry 
  2:10:29.15 - 12241 - Automated entry 
  2:10:30.00 - 9945 - Automated entry 
+ 2:10:30.92 - 775 - Automated entry 
