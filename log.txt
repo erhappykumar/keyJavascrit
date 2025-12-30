@@ -80328,3 +80328,854 @@
  9:33:14.95 - 9175 - Automated entry 
  9:33:16.05 - 17635 - Automated entry 
  9:33:17.85 - 18905 - Automated entry 
+ 9:33:18.75 - 539 - Automated entry 
+ 9:40:28.78 - 25068 - Automated entry 
+ 9:40:30.99 - 10452 - Automated entry 
+ 9:40:33.27 - 12932 - Automated entry 
+ 9:40:35.10 - 32109 - Automated entry 
+ 9:40:37.39 - 6962 - Automated entry 
+ 9:40:39.32 - 25365 - Automated entry 
+ 9:40:42.04 - 4550 - Automated entry 
+ 9:40:44.07 - 29908 - Automated entry 
+ 9:40:45.86 - 14268 - Automated entry 
+ 9:40:47.57 - 15999 - Automated entry 
+ 9:40:49.29 - 16560 - Automated entry 
+ 9:40:51.07 - 10207 - Automated entry 
+ 9:40:52.85 - 21888 - Automated entry 
+ 9:40:54.56 - 24000 - Automated entry 
+ 9:40:56.30 - 8582 - Automated entry 
+ 9:40:57.93 - 20688 - Automated entry 
+ 9:40:59.64 - 25227 - Automated entry 
+ 9:41:01.23 - 24640 - Automated entry 
+ 9:41:02.90 - 22880 - Automated entry 
+ 9:41:04.55 - 13941 - Automated entry 
+ 9:41:06.22 - 10310 - Automated entry 
+ 9:41:07.88 - 20566 - Automated entry 
+ 9:41:09.65 - 21897 - Automated entry 
+ 9:41:11.40 - 11258 - Automated entry 
+ 9:41:13.20 - 7161 - Automated entry 
+ 9:41:15.00 - 16827 - Automated entry 
+ 9:41:16.71 - 16422 - Automated entry 
+ 9:41:18.47 - 17153 - Automated entry 
+ 9:41:20.23 - 6285 - Automated entry 
+ 9:41:21.96 - 13375 - Automated entry 
+ 9:41:23.69 - 10264 - Automated entry 
+ 9:41:25.36 - 25588 - Automated entry 
+ 9:41:26.97 - 26006 - Automated entry 
+ 9:41:28.67 - 3770 - Automated entry 
+ 9:41:30.27 - 24611 - Automated entry 
+ 9:41:31.89 - 16538 - Automated entry 
+ 9:41:33.56 - 12177 - Automated entry 
+ 9:41:35.19 - 17990 - Automated entry 
+ 9:41:36.91 - 22863 - Automated entry 
+ 9:41:38.59 - 21737 - Automated entry 
+ 9:41:40.20 - 21865 - Automated entry 
+ 9:41:41.83 - 1451 - Automated entry 
+ 9:41:43.47 - 31886 - Automated entry 
+ 9:41:45.12 - 27164 - Automated entry 
+ 9:41:46.81 - 12097 - Automated entry 
+ 9:41:48.41 - 26907 - Automated entry 
+ 9:41:50.28 - 18336 - Automated entry 
+ 9:41:52.03 - 20485 - Automated entry 
+ 9:41:53.72 - 12909 - Automated entry 
+ 9:41:55.41 - 8736 - Automated entry 
+ 9:41:57.16 - 12596 - Automated entry 
+ 9:41:58.89 - 16547 - Automated entry 
+ 9:42:00.71 - 5825 - Automated entry 
+ 9:42:02.47 - 6098 - Automated entry 
+ 9:42:04.21 - 6224 - Automated entry 
+ 9:42:05.93 - 8695 - Automated entry 
+ 9:42:07.70 - 24847 - Automated entry 
+ 9:42:09.52 - 22349 - Automated entry 
+ 9:42:11.31 - 17138 - Automated entry 
+ 9:42:13.50 - 6676 - Automated entry 
+ 9:42:15.35 - 30443 - Automated entry 
+ 9:42:17.16 - 26722 - Automated entry 
+ 9:42:18.93 - 12280 - Automated entry 
+ 9:42:20.70 - 10614 - Automated entry 
+ 9:42:22.43 - 8113 - Automated entry 
+ 9:42:24.22 - 23181 - Automated entry 
+ 9:42:25.98 - 16445 - Automated entry 
+ 9:42:27.74 - 16276 - Automated entry 
+ 9:42:29.50 - 5834 - Automated entry 
+ 9:42:31.34 - 7719 - Automated entry 
+ 9:42:33.04 - 31493 - Automated entry 
+ 9:42:34.86 - 32184 - Automated entry 
+ 9:42:36.68 - 4906 - Automated entry 
+ 9:42:38.47 - 32221 - Automated entry 
+ 9:42:40.25 - 29083 - Automated entry 
+ 9:42:42.05 - 7183 - Automated entry 
+ 9:42:43.82 - 26653 - Automated entry 
+ 9:42:45.54 - 19553 - Automated entry 
+ 9:42:47.27 - 1592 - Automated entry 
+ 9:42:49.04 - 9468 - Automated entry 
+ 9:42:50.71 - 9028 - Automated entry 
+ 9:42:52.44 - 6751 - Automated entry 
+ 9:42:54.29 - 6695 - Automated entry 
+ 9:42:56.03 - 31410 - Automated entry 
+ 9:42:57.79 - 19418 - Automated entry 
+ 9:42:59.55 - 2227 - Automated entry 
+ 9:43:01.36 - 26407 - Automated entry 
+ 9:43:03.14 - 23298 - Automated entry 
+ 9:43:04.91 - 10044 - Automated entry 
+ 9:43:06.72 - 2777 - Automated entry 
+ 9:43:08.49 - 2065 - Automated entry 
+ 9:43:10.29 - 21873 - Automated entry 
+ 9:43:11.99 - 9897 - Automated entry 
+ 9:43:13.64 - 11685 - Automated entry 
+ 9:43:15.36 - 29882 - Automated entry 
+ 9:43:17.17 - 26510 - Automated entry 
+ 9:43:18.99 - 25158 - Automated entry 
+ 9:43:20.81 - 13876 - Automated entry 
+ 9:43:22.59 - 29979 - Automated entry 
+ 9:43:24.40 - 13187 - Automated entry 
+ 9:43:26.12 - 17765 - Automated entry 
+ 9:43:27.90 - 11554 - Automated entry 
+ 9:43:29.72 - 20399 - Automated entry 
+ 9:43:31.50 - 1257 - Automated entry 
+ 9:43:33.26 - 20486 - Automated entry 
+ 9:43:35.03 - 10749 - Automated entry 
+ 9:43:36.84 - 14109 - Automated entry 
+ 9:43:38.58 - 6113 - Automated entry 
+ 9:43:40.32 - 4510 - Automated entry 
+ 9:43:41.99 - 29434 - Automated entry 
+ 9:43:43.74 - 15127 - Automated entry 
+ 9:43:45.47 - 22112 - Automated entry 
+ 9:43:47.51 - 16664 - Automated entry 
+ 9:43:49.39 - 17639 - Automated entry 
+ 9:43:51.15 - 16514 - Automated entry 
+ 9:43:52.91 - 32714 - Automated entry 
+ 9:43:54.71 - 5658 - Automated entry 
+ 9:43:56.48 - 22369 - Automated entry 
+ 9:43:58.27 - 17623 - Automated entry 
+ 9:44:00.06 - 28355 - Automated entry 
+ 9:44:01.83 - 18313 - Automated entry 
+ 9:44:03.53 - 28999 - Automated entry 
+ 9:44:05.27 - 28873 - Automated entry 
+ 9:44:07.05 - 28994 - Automated entry 
+ 9:44:08.88 - 21327 - Automated entry 
+ 9:44:10.75 - 8559 - Automated entry 
+ 9:44:12.95 - 15912 - Automated entry 
+ 9:44:14.69 - 26342 - Automated entry 
+ 9:44:16.49 - 29532 - Automated entry 
+ 9:44:18.23 - 28567 - Automated entry 
+ 9:44:19.97 - 13573 - Automated entry 
+ 9:44:21.74 - 6542 - Automated entry 
+ 9:44:23.48 - 25578 - Automated entry 
+ 9:44:25.30 - 6558 - Automated entry 
+ 9:44:27.07 - 1047 - Automated entry 
+ 9:44:28.87 - 1060 - Automated entry 
+ 9:44:30.65 - 24326 - Automated entry 
+ 9:44:32.42 - 12532 - Automated entry 
+ 9:44:34.16 - 30813 - Automated entry 
+ 9:44:35.86 - 31673 - Automated entry 
+ 9:44:37.66 - 29004 - Automated entry 
+ 9:44:39.39 - 11343 - Automated entry 
+ 9:44:41.16 - 6149 - Automated entry 
+ 9:44:42.94 - 28375 - Automated entry 
+ 9:44:44.68 - 3058 - Automated entry 
+ 9:44:46.42 - 16799 - Automated entry 
+ 9:44:48.16 - 25741 - Automated entry 
+ 9:44:49.88 - 12050 - Automated entry 
+ 9:44:51.65 - 30728 - Automated entry 
+ 9:44:53.39 - 7237 - Automated entry 
+ 9:44:55.19 - 2088 - Automated entry 
+ 9:44:56.96 - 30945 - Automated entry 
+ 9:44:58.68 - 3837 - Automated entry 
+ 9:45:00.39 - 17279 - Automated entry 
+ 9:45:02.13 - 29283 - Automated entry 
+ 9:45:03.92 - 11692 - Automated entry 
+ 9:45:05.67 - 23654 - Automated entry 
+ 9:45:07.38 - 17703 - Automated entry 
+ 9:45:09.11 - 10248 - Automated entry 
+ 9:45:10.94 - 29734 - Automated entry 
+ 9:45:12.77 - 3323 - Automated entry 
+ 9:45:14.53 - 30878 - Automated entry 
+ 9:45:16.32 - 19010 - Automated entry 
+ 9:45:18.05 - 13021 - Automated entry 
+ 9:45:19.76 - 20194 - Automated entry 
+ 9:45:21.61 - 28163 - Automated entry 
+ 9:45:23.34 - 6403 - Automated entry 
+ 9:45:25.09 - 6416 - Automated entry 
+ 9:45:26.91 - 1841 - Automated entry 
+ 9:45:28.69 - 23976 - Automated entry 
+ 9:45:30.41 - 29859 - Automated entry 
+ 9:45:32.15 - 10688 - Automated entry 
+ 9:45:33.92 - 174 - Automated entry 
+ 9:45:35.71 - 11206 - Automated entry 
+ 9:45:37.47 - 8906 - Automated entry 
+ 9:45:39.22 - 32009 - Automated entry 
+ 9:45:40.96 - 30681 - Automated entry 
+ 9:45:42.63 - 21615 - Automated entry 
+ 9:45:44.51 - 23183 - Automated entry 
+ 9:45:46.27 - 11187 - Automated entry 
+ 9:45:48.00 - 10284 - Automated entry 
+ 9:45:49.70 - 21445 - Automated entry 
+ 9:45:51.47 - 23521 - Automated entry 
+ 9:45:53.23 - 6405 - Automated entry 
+ 9:45:55.05 - 16033 - Automated entry 
+ 9:45:56.70 - 24170 - Automated entry 
+ 9:45:58.45 - 5670 - Automated entry 
+ 9:46:00.31 - 3801 - Automated entry 
+ 9:46:02.07 - 21877 - Automated entry 
+ 9:46:03.83 - 32311 - Automated entry 
+ 9:46:05.58 - 8739 - Automated entry 
+ 9:46:07.44 - 24566 - Automated entry 
+ 9:46:09.19 - 23851 - Automated entry 
+ 9:46:10.96 - 26417 - Automated entry 
+ 9:46:12.80 - 4892 - Automated entry 
+ 9:46:14.58 - 1177 - Automated entry 
+ 9:46:16.41 - 5845 - Automated entry 
+ 9:46:18.16 - 6328 - Automated entry 
+ 9:46:19.92 - 25404 - Automated entry 
+ 9:46:21.73 - 25941 - Automated entry 
+ 9:46:23.44 - 911 - Automated entry 
+ 9:46:25.16 - 7938 - Automated entry 
+ 9:46:26.94 - 32567 - Automated entry 
+ 9:46:28.72 - 18461 - Automated entry 
+ 9:46:30.45 - 27980 - Automated entry 
+ 9:46:32.33 - 2248 - Automated entry 
+ 9:46:34.07 - 13613 - Automated entry 
+ 9:46:35.79 - 5024 - Automated entry 
+ 9:46:37.55 - 27861 - Automated entry 
+ 9:46:39.28 - 25919 - Automated entry 
+ 9:46:41.08 - 2770 - Automated entry 
+ 9:46:42.89 - 23765 - Automated entry 
+ 9:46:44.68 - 4366 - Automated entry 
+ 9:46:46.47 - 24138 - Automated entry 
+ 9:46:48.26 - 16076 - Automated entry 
+ 9:46:50.07 - 29398 - Automated entry 
+ 9:46:51.88 - 2939 - Automated entry 
+ 9:46:53.63 - 17134 - Automated entry 
+ 9:46:55.43 - 31068 - Automated entry 
+ 9:46:57.20 - 23793 - Automated entry 
+ 9:46:59.23 - 1540 - Automated entry 
+ 9:47:00.99 - 5638 - Automated entry 
+ 9:47:02.82 - 28737 - Automated entry 
+ 9:47:05.00 - 32508 - Automated entry 
+ 9:47:06.77 - 1525 - Automated entry 
+ 9:47:08.65 - 30008 - Automated entry 
+ 9:47:10.42 - 473 - Automated entry 
+ 9:47:12.17 - 22506 - Automated entry 
+ 9:47:13.86 - 73 - Automated entry 
+ 9:47:15.68 - 27687 - Automated entry 
+ 9:47:17.44 - 2954 - Automated entry 
+ 9:47:19.15 - 3740 - Automated entry 
+ 9:47:20.89 - 808 - Automated entry 
+ 9:47:22.69 - 2026 - Automated entry 
+ 9:47:24.45 - 32608 - Automated entry 
+ 9:47:26.21 - 16633 - Automated entry 
+ 9:47:27.93 - 6318 - Automated entry 
+ 9:47:29.72 - 16062 - Automated entry 
+ 9:47:31.53 - 31991 - Automated entry 
+ 9:47:33.31 - 18753 - Automated entry 
+ 9:47:34.99 - 18158 - Automated entry 
+ 9:47:36.79 - 32759 - Automated entry 
+ 9:47:38.56 - 29084 - Automated entry 
+ 9:47:40.35 - 28062 - Automated entry 
+ 9:47:42.12 - 20791 - Automated entry 
+ 9:47:43.86 - 61 - Automated entry 
+ 9:47:45.61 - 943 - Automated entry 
+ 9:47:47.33 - 11773 - Automated entry 
+ 9:47:49.14 - 7830 - Automated entry 
+ 9:47:50.91 - 5620 - Automated entry 
+ 9:47:52.76 - 19787 - Automated entry 
+ 9:47:54.57 - 9243 - Automated entry 
+ 9:47:56.36 - 27035 - Automated entry 
+ 9:47:58.21 - 14844 - Automated entry 
+ 9:47:59.99 - 10794 - Automated entry 
+ 9:48:01.75 - 10723 - Automated entry 
+ 9:48:03.52 - 7520 - Automated entry 
+ 9:48:05.23 - 155 - Automated entry 
+ 9:48:07.01 - 7362 - Automated entry 
+ 9:48:08.76 - 14839 - Automated entry 
+ 9:48:10.62 - 968 - Automated entry 
+ 9:48:12.35 - 7863 - Automated entry 
+ 9:48:14.10 - 3764 - Automated entry 
+ 9:48:15.83 - 16013 - Automated entry 
+ 9:48:17.62 - 10501 - Automated entry 
+ 9:48:19.41 - 20297 - Automated entry 
+ 9:48:21.17 - 28775 - Automated entry 
+ 9:48:22.97 - 17020 - Automated entry 
+ 9:48:24.69 - 6237 - Automated entry 
+ 9:48:26.37 - 11534 - Automated entry 
+ 9:48:28.20 - 31728 - Automated entry 
+ 9:48:29.93 - 14486 - Automated entry 
+ 9:48:31.73 - 22061 - Automated entry 
+ 9:48:33.57 - 21632 - Automated entry 
+ 9:48:35.36 - 7990 - Automated entry 
+ 9:48:37.15 - 19769 - Automated entry 
+ 9:48:38.92 - 15150 - Automated entry 
+ 9:48:40.75 - 25092 - Automated entry 
+ 9:48:42.54 - 20819 - Automated entry 
+ 9:48:44.32 - 30241 - Automated entry 
+ 9:48:46.06 - 5367 - Automated entry 
+ 9:48:47.86 - 8293 - Automated entry 
+ 9:48:49.60 - 22333 - Automated entry 
+ 9:48:51.37 - 13440 - Automated entry 
+ 9:48:53.10 - 12227 - Automated entry 
+ 9:48:54.95 - 31617 - Automated entry 
+ 9:48:56.74 - 15269 - Automated entry 
+ 9:48:58.51 - 15697 - Automated entry 
+ 9:49:00.50 - 11637 - Automated entry 
+ 9:49:02.71 - 2882 - Automated entry 
+ 9:49:04.61 - 32287 - Automated entry 
+ 9:49:06.49 - 31721 - Automated entry 
+ 9:49:08.28 - 19929 - Automated entry 
+ 9:49:10.06 - 19152 - Automated entry 
+ 9:49:11.78 - 15748 - Automated entry 
+ 9:49:13.60 - 8911 - Automated entry 
+ 9:49:15.36 - 3117 - Automated entry 
+ 9:49:17.21 - 20485 - Automated entry 
+ 9:49:18.97 - 24980 - Automated entry 
+ 9:49:20.77 - 16077 - Automated entry 
+ 9:49:22.52 - 13792 - Automated entry 
+ 9:49:24.26 - 5922 - Automated entry 
+ 9:49:26.03 - 2016 - Automated entry 
+ 9:49:27.79 - 71 - Automated entry 
+ 9:49:29.75 - 24217 - Automated entry 
+ 9:49:31.54 - 14016 - Automated entry 
+ 9:49:33.29 - 14312 - Automated entry 
+ 9:49:35.09 - 11980 - Automated entry 
+ 9:49:36.89 - 21883 - Automated entry 
+ 9:49:38.65 - 4105 - Automated entry 
+ 9:49:40.35 - 8832 - Automated entry 
+ 9:49:42.09 - 31467 - Automated entry 
+ 9:49:43.82 - 32680 - Automated entry 
+ 9:49:45.54 - 20263 - Automated entry 
+ 9:49:47.59 - 28792 - Automated entry 
+ 9:49:49.44 - 8776 - Automated entry 
+ 9:49:51.18 - 15363 - Automated entry 
+ 9:49:52.98 - 20477 - Automated entry 
+ 9:49:54.80 - 25723 - Automated entry 
+ 9:49:56.65 - 6639 - Automated entry 
+ 9:49:58.43 - 13371 - Automated entry 
+ 9:50:00.25 - 15125 - Automated entry 
+ 9:50:02.16 - 21560 - Automated entry 
+ 9:50:03.93 - 13031 - Automated entry 
+ 9:50:05.94 - 16133 - Automated entry 
+ 9:50:07.94 - 28378 - Automated entry 
+ 9:50:09.98 - 15552 - Automated entry 
+ 9:50:11.72 - 27915 - Automated entry 
+ 9:50:13.45 - 14248 - Automated entry 
+ 9:50:15.24 - 2312 - Automated entry 
+ 9:50:17.07 - 30255 - Automated entry 
+ 9:50:18.90 - 27669 - Automated entry 
+ 9:50:20.75 - 28351 - Automated entry 
+ 9:50:22.54 - 9312 - Automated entry 
+ 9:50:24.32 - 19087 - Automated entry 
+ 9:50:26.18 - 17148 - Automated entry 
+ 9:50:27.91 - 6202 - Automated entry 
+ 9:50:29.79 - 7840 - Automated entry 
+ 9:50:31.55 - 29689 - Automated entry 
+ 9:50:33.28 - 2432 - Automated entry 
+ 9:50:35.08 - 23207 - Automated entry 
+ 9:50:36.85 - 31410 - Automated entry 
+ 9:50:38.59 - 17917 - Automated entry 
+ 9:50:40.36 - 28674 - Automated entry 
+ 9:50:42.19 - 25520 - Automated entry 
+ 9:50:43.94 - 13092 - Automated entry 
+ 9:50:45.68 - 1605 - Automated entry 
+ 9:50:47.45 - 17818 - Automated entry 
+ 9:50:49.20 - 9700 - Automated entry 
+ 9:50:51.04 - 4312 - Automated entry 
+ 9:50:52.74 - 14452 - Automated entry 
+ 9:50:54.51 - 9316 - Automated entry 
+ 9:50:56.22 - 9146 - Automated entry 
+ 9:50:58.01 - 23037 - Automated entry 
+ 9:50:59.82 - 24916 - Automated entry 
+ 9:51:01.56 - 14362 - Automated entry 
+ 9:51:03.32 - 27602 - Automated entry 
+ 9:51:05.07 - 27965 - Automated entry 
+ 9:51:06.83 - 1329 - Automated entry 
+ 9:51:08.67 - 21224 - Automated entry 
+ 9:51:10.42 - 10879 - Automated entry 
+ 9:51:12.19 - 7480 - Automated entry 
+ 9:51:13.96 - 25984 - Automated entry 
+ 9:51:15.72 - 17531 - Automated entry 
+ 9:51:17.50 - 29827 - Automated entry 
+ 9:51:19.24 - 24626 - Automated entry 
+ 9:51:21.00 - 16837 - Automated entry 
+ 9:51:22.79 - 10076 - Automated entry 
+ 9:51:24.53 - 12057 - Automated entry 
+ 9:51:26.28 - 10248 - Automated entry 
+ 9:51:28.15 - 8115 - Automated entry 
+ 9:51:30.01 - 6268 - Automated entry 
+ 9:51:31.76 - 14649 - Automated entry 
+ 9:51:33.52 - 30313 - Automated entry 
+ 9:51:35.29 - 24212 - Automated entry 
+ 9:51:37.02 - 3344 - Automated entry 
+ 9:51:38.80 - 14871 - Automated entry 
+ 9:51:40.57 - 322 - Automated entry 
+ 9:51:42.29 - 6635 - Automated entry 
+ 9:51:44.07 - 15006 - Automated entry 
+ 9:51:45.80 - 14573 - Automated entry 
+ 9:51:47.54 - 31610 - Automated entry 
+ 9:51:49.41 - 8024 - Automated entry 
+ 9:51:51.14 - 17752 - Automated entry 
+ 9:51:52.89 - 25082 - Automated entry 
+ 9:51:54.69 - 21984 - Automated entry 
+ 9:51:56.52 - 31677 - Automated entry 
+ 9:51:58.27 - 10410 - Automated entry 
+ 9:52:00.13 - 7370 - Automated entry 
+ 9:52:01.86 - 3170 - Automated entry 
+ 9:52:03.65 - 25503 - Automated entry 
+ 9:52:05.44 - 3599 - Automated entry 
+ 9:52:07.20 - 22457 - Automated entry 
+ 9:52:08.95 - 21375 - Automated entry 
+ 9:52:10.81 - 31439 - Automated entry 
+ 9:52:12.51 - 1576 - Automated entry 
+ 9:52:14.29 - 11443 - Automated entry 
+ 9:52:16.07 - 14847 - Automated entry 
+ 9:52:17.83 - 16201 - Automated entry 
+ 9:52:19.61 - 22543 - Automated entry 
+ 9:52:21.46 - 17213 - Automated entry 
+ 9:52:23.29 - 4833 - Automated entry 
+ 9:52:25.03 - 7004 - Automated entry 
+ 9:52:26.79 - 23273 - Automated entry 
+ 9:52:28.57 - 5049 - Automated entry 
+ 9:52:30.35 - 15253 - Automated entry 
+ 9:52:32.05 - 25355 - Automated entry 
+ 9:52:33.86 - 3514 - Automated entry 
+ 9:52:35.66 - 28645 - Automated entry 
+ 9:52:37.39 - 4715 - Automated entry 
+ 9:52:39.20 - 16564 - Automated entry 
+ 9:52:40.89 - 24958 - Automated entry 
+ 9:52:42.68 - 29862 - Automated entry 
+ 9:52:44.54 - 12620 - Automated entry 
+ 9:52:46.34 - 21743 - Automated entry 
+ 9:52:48.14 - 26997 - Automated entry 
+ 9:52:49.94 - 18692 - Automated entry 
+ 9:52:51.67 - 16552 - Automated entry 
+ 9:52:53.37 - 3513 - Automated entry 
+ 9:52:55.16 - 26046 - Automated entry 
+ 9:52:56.91 - 20085 - Automated entry 
+ 9:52:58.68 - 30383 - Automated entry 
+ 9:53:00.43 - 30930 - Automated entry 
+ 9:53:02.18 - 23591 - Automated entry 
+ 9:53:03.99 - 9822 - Automated entry 
+ 9:53:05.76 - 5828 - Automated entry 
+ 9:53:07.53 - 5475 - Automated entry 
+ 9:53:09.32 - 13124 - Automated entry 
+ 9:53:11.08 - 12503 - Automated entry 
+ 9:53:12.82 - 1326 - Automated entry 
+ 9:53:14.59 - 26852 - Automated entry 
+ 9:53:16.38 - 958 - Automated entry 
+ 9:53:18.17 - 26799 - Automated entry 
+ 9:53:19.90 - 17169 - Automated entry 
+ 9:53:21.67 - 23357 - Automated entry 
+ 9:53:23.44 - 5102 - Automated entry 
+ 9:53:25.21 - 16559 - Automated entry 
+ 9:53:26.95 - 26269 - Automated entry 
+ 9:53:28.68 - 7723 - Automated entry 
+ 9:53:30.44 - 12714 - Automated entry 
+ 9:53:32.16 - 26147 - Automated entry 
+ 9:53:33.89 - 25478 - Automated entry 
+ 9:53:35.57 - 9190 - Automated entry 
+ 9:53:37.46 - 24159 - Automated entry 
+ 9:53:39.24 - 3223 - Automated entry 
+ 9:53:41.02 - 14260 - Automated entry 
+ 9:53:42.83 - 26881 - Automated entry 
+ 9:53:44.62 - 352 - Automated entry 
+ 9:53:46.41 - 9951 - Automated entry 
+ 9:53:48.19 - 20539 - Automated entry 
+ 9:53:50.00 - 5521 - Automated entry 
+ 9:53:51.76 - 5246 - Automated entry 
+ 9:53:53.63 - 12634 - Automated entry 
+ 9:53:55.40 - 14989 - Automated entry 
+ 9:53:57.23 - 14737 - Automated entry 
+ 9:53:58.99 - 32473 - Automated entry 
+ 9:54:00.72 - 29047 - Automated entry 
+ 9:54:02.36 - 30191 - Automated entry 
+ 9:54:04.13 - 10373 - Automated entry 
+ 9:54:05.89 - 4598 - Automated entry 
+ 9:54:07.69 - 20087 - Automated entry 
+ 9:54:09.49 - 31017 - Automated entry 
+ 9:54:11.30 - 14430 - Automated entry 
+ 9:54:13.06 - 23825 - Automated entry 
+ 9:54:14.84 - 10101 - Automated entry 
+ 9:54:16.59 - 16514 - Automated entry 
+ 9:54:18.47 - 26526 - Automated entry 
+ 9:54:20.25 - 19124 - Automated entry 
+ 9:54:22.01 - 19108 - Automated entry 
+ 9:54:23.80 - 30699 - Automated entry 
+ 9:54:25.57 - 11964 - Automated entry 
+ 9:54:27.34 - 15496 - Automated entry 
+ 9:54:29.07 - 29145 - Automated entry 
+ 9:54:30.84 - 5499 - Automated entry 
+ 9:54:32.59 - 202 - Automated entry 
+ 9:54:34.34 - 6508 - Automated entry 
+ 9:54:36.15 - 26697 - Automated entry 
+ 9:54:37.90 - 30747 - Automated entry 
+ 9:54:39.66 - 16213 - Automated entry 
+ 9:54:41.46 - 452 - Automated entry 
+ 9:54:43.34 - 15763 - Automated entry 
+ 9:54:45.10 - 24195 - Automated entry 
+ 9:54:46.85 - 9613 - Automated entry 
+ 9:54:48.57 - 7699 - Automated entry 
+ 9:54:50.42 - 10753 - Automated entry 
+ 9:54:52.19 - 19045 - Automated entry 
+ 9:54:53.98 - 28325 - Automated entry 
+ 9:54:55.70 - 15309 - Automated entry 
+ 9:54:57.42 - 2058 - Automated entry 
+ 9:54:59.14 - 9191 - Automated entry 
+ 9:55:00.93 - 15229 - Automated entry 
+ 9:55:02.62 - 11366 - Automated entry 
+ 9:55:04.46 - 1820 - Automated entry 
+ 9:55:06.29 - 12631 - Automated entry 
+ 9:55:08.03 - 31615 - Automated entry 
+ 9:55:09.82 - 6831 - Automated entry 
+ 9:55:11.66 - 31641 - Automated entry 
+ 9:55:13.37 - 14106 - Automated entry 
+ 9:55:15.12 - 23751 - Automated entry 
+ 9:55:17.02 - 19042 - Automated entry 
+ 9:55:18.77 - 28704 - Automated entry 
+ 9:55:20.57 - 21478 - Automated entry 
+ 9:55:22.30 - 1926 - Automated entry 
+ 9:55:24.09 - 30203 - Automated entry 
+ 9:55:25.90 - 23565 - Automated entry 
+ 9:55:27.61 - 27954 - Automated entry 
+ 9:55:29.46 - 10408 - Automated entry 
+ 9:55:31.18 - 16074 - Automated entry 
+ 9:55:32.97 - 9027 - Automated entry 
+ 9:55:34.77 - 16362 - Automated entry 
+ 9:55:36.45 - 4020 - Automated entry 
+ 9:55:38.17 - 25415 - Automated entry 
+ 9:55:39.95 - 17193 - Automated entry 
+ 9:55:41.81 - 26982 - Automated entry 
+ 9:55:43.60 - 25588 - Automated entry 
+ 9:55:45.37 - 12197 - Automated entry 
+ 9:55:47.14 - 20722 - Automated entry 
+ 9:55:48.93 - 31901 - Automated entry 
+ 9:55:50.65 - 13527 - Automated entry 
+ 9:55:52.47 - 23722 - Automated entry 
+ 9:55:54.29 - 11554 - Automated entry 
+ 9:55:56.07 - 30614 - Automated entry 
+ 9:55:57.88 - 27027 - Automated entry 
+ 9:55:59.66 - 20669 - Automated entry 
+ 9:56:01.69 - 4173 - Automated entry 
+ 9:56:03.38 - 11552 - Automated entry 
+ 9:56:05.26 - 21518 - Automated entry 
+ 9:56:07.06 - 30529 - Automated entry 
+ 9:56:08.90 - 21794 - Automated entry 
+ 9:56:10.66 - 30403 - Automated entry 
+ 9:56:12.38 - 27391 - Automated entry 
+ 9:56:14.17 - 8737 - Automated entry 
+ 9:56:15.98 - 9129 - Automated entry 
+ 9:56:17.77 - 17142 - Automated entry 
+ 9:56:20.13 - 28496 - Automated entry 
+ 9:56:22.17 - 10668 - Automated entry 
+ 9:56:23.96 - 25033 - Automated entry 
+ 9:56:26.09 - 21394 - Automated entry 
+ 9:56:27.93 - 200 - Automated entry 
+ 9:56:30.54 - 16036 - Automated entry 
+ 9:56:32.60 - 3341 - Automated entry 
+ 9:56:34.60 - 16519 - Automated entry 
+ 9:56:36.43 - 26086 - Automated entry 
+ 9:56:38.64 - 8849 - Automated entry 
+ 9:56:40.44 - 25000 - Automated entry 
+ 9:56:42.26 - 4814 - Automated entry 
+ 9:56:43.98 - 2832 - Automated entry 
+ 9:56:45.72 - 14939 - Automated entry 
+ 9:56:47.75 - 29366 - Automated entry 
+ 9:56:49.74 - 2975 - Automated entry 
+ 9:56:51.46 - 31981 - Automated entry 
+ 9:56:53.13 - 12056 - Automated entry 
+ 9:56:54.93 - 6084 - Automated entry 
+ 9:56:56.69 - 27619 - Automated entry 
+ 9:56:58.48 - 25103 - Automated entry 
+ 9:57:00.20 - 4387 - Automated entry 
+ 9:57:01.95 - 21395 - Automated entry 
+ 9:57:03.74 - 20460 - Automated entry 
+ 9:57:05.51 - 14293 - Automated entry 
+ 9:57:07.37 - 12654 - Automated entry 
+ 9:57:09.19 - 6169 - Automated entry 
+ 9:57:10.97 - 29540 - Automated entry 
+ 9:57:12.76 - 22159 - Automated entry 
+ 9:57:14.54 - 9497 - Automated entry 
+ 9:57:16.35 - 3017 - Automated entry 
+ 9:57:18.16 - 29059 - Automated entry 
+ 9:57:20.00 - 228 - Automated entry 
+ 9:57:21.79 - 10051 - Automated entry 
+ 9:57:23.56 - 13332 - Automated entry 
+ 9:57:25.38 - 21893 - Automated entry 
+ 9:57:27.11 - 625 - Automated entry 
+ 9:57:28.91 - 19744 - Automated entry 
+ 9:57:30.71 - 10544 - Automated entry 
+ 9:57:32.51 - 3932 - Automated entry 
+ 9:57:34.27 - 8627 - Automated entry 
+ 9:57:36.01 - 16459 - Automated entry 
+ 9:57:37.86 - 14104 - Automated entry 
+ 9:57:39.67 - 8354 - Automated entry 
+ 9:57:41.39 - 26919 - Automated entry 
+ 9:57:43.21 - 29534 - Automated entry 
+ 9:57:44.95 - 4052 - Automated entry 
+ 9:57:46.70 - 5585 - Automated entry 
+ 9:57:48.42 - 2991 - Automated entry 
+ 9:57:50.15 - 1217 - Automated entry 
+ 9:57:51.89 - 29434 - Automated entry 
+ 9:57:53.66 - 8118 - Automated entry 
+ 9:57:55.40 - 26680 - Automated entry 
+ 9:57:57.33 - 17343 - Automated entry 
+ 9:57:59.14 - 28277 - Automated entry 
+ 9:58:00.88 - 24867 - Automated entry 
+ 9:58:02.66 - 28826 - Automated entry 
+ 9:58:04.45 - 3039 - Automated entry 
+ 9:58:06.21 - 7301 - Automated entry 
+ 9:58:07.99 - 17637 - Automated entry 
+ 9:58:10.16 - 30655 - Automated entry 
+ 9:58:12.00 - 27249 - Automated entry 
+ 9:58:13.72 - 775 - Automated entry 
+ 9:58:15.47 - 28661 - Automated entry 
+ 9:58:17.20 - 11016 - Automated entry 
+ 9:58:18.92 - 16999 - Automated entry 
+ 9:58:20.64 - 30711 - Automated entry 
+ 9:58:22.42 - 9203 - Automated entry 
+ 9:58:24.17 - 15084 - Automated entry 
+ 9:58:25.90 - 25190 - Automated entry 
+ 9:58:27.63 - 12083 - Automated entry 
+ 9:58:29.38 - 9679 - Automated entry 
+ 9:58:31.11 - 30435 - Automated entry 
+ 9:58:32.91 - 16669 - Automated entry 
+ 9:58:34.65 - 21889 - Automated entry 
+ 9:58:36.48 - 31946 - Automated entry 
+ 9:58:38.25 - 24706 - Automated entry 
+ 9:58:40.07 - 21462 - Automated entry 
+ 9:58:41.87 - 23764 - Automated entry 
+ 9:58:43.62 - 7581 - Automated entry 
+ 9:58:45.39 - 31207 - Automated entry 
+ 9:58:47.15 - 13130 - Automated entry 
+ 9:58:48.93 - 24011 - Automated entry 
+ 9:58:50.72 - 22007 - Automated entry 
+ 9:58:52.46 - 21335 - Automated entry 
+ 9:58:54.19 - 698 - Automated entry 
+ 9:58:56.00 - 12923 - Automated entry 
+ 9:58:57.79 - 3117 - Automated entry 
+ 9:58:59.57 - 7206 - Automated entry 
+ 9:59:01.34 - 19771 - Automated entry 
+ 9:59:03.12 - 11886 - Automated entry 
+ 9:59:04.90 - 10029 - Automated entry 
+ 9:59:06.71 - 15063 - Automated entry 
+ 9:59:08.53 - 19794 - Automated entry 
+ 9:59:10.78 - 6123 - Automated entry 
+ 9:59:12.58 - 12981 - Automated entry 
+ 9:59:14.38 - 12421 - Automated entry 
+ 9:59:16.23 - 21184 - Automated entry 
+ 9:59:17.99 - 18040 - Automated entry 
+ 9:59:19.76 - 5058 - Automated entry 
+ 9:59:21.52 - 19330 - Automated entry 
+ 9:59:23.29 - 15007 - Automated entry 
+ 9:59:25.10 - 2718 - Automated entry 
+ 9:59:26.93 - 24906 - Automated entry 
+ 9:59:28.70 - 27965 - Automated entry 
+ 9:59:30.45 - 11694 - Automated entry 
+ 9:59:32.20 - 17132 - Automated entry 
+ 9:59:33.93 - 13613 - Automated entry 
+ 9:59:35.75 - 26473 - Automated entry 
+ 9:59:37.47 - 6378 - Automated entry 
+ 9:59:39.17 - 16959 - Automated entry 
+ 9:59:40.93 - 2410 - Automated entry 
+ 9:59:42.68 - 13403 - Automated entry 
+ 9:59:44.41 - 5214 - Automated entry 
+ 9:59:46.20 - 27456 - Automated entry 
+ 9:59:47.91 - 30094 - Automated entry 
+ 9:59:49.67 - 3764 - Automated entry 
+ 9:59:51.46 - 11323 - Automated entry 
+ 9:59:53.26 - 9517 - Automated entry 
+ 9:59:55.17 - 24691 - Automated entry 
+ 9:59:56.92 - 11329 - Automated entry 
+ 9:59:58.70 - 16427 - Automated entry 
+10:00:00.51 - 3549 - Automated entry 
+10:00:02.25 - 31270 - Automated entry 
+10:00:04.08 - 8223 - Automated entry 
+10:00:05.90 - 27875 - Automated entry 
+10:00:07.64 - 3326 - Automated entry 
+10:00:09.40 - 4649 - Automated entry 
+10:00:11.83 - 10275 - Automated entry 
+10:00:13.63 - 13303 - Automated entry 
+10:00:15.39 - 11426 - Automated entry 
+10:00:17.12 - 7643 - Automated entry 
+10:00:18.92 - 27000 - Automated entry 
+10:00:20.69 - 22003 - Automated entry 
+10:00:22.49 - 23290 - Automated entry 
+10:00:24.27 - 820 - Automated entry 
+10:00:25.97 - 24714 - Automated entry 
+10:00:27.73 - 4775 - Automated entry 
+10:00:29.54 - 31072 - Automated entry 
+10:00:31.30 - 31669 - Automated entry 
+10:00:33.05 - 2083 - Automated entry 
+10:00:34.88 - 17346 - Automated entry 
+10:00:36.59 - 23707 - Automated entry 
+10:00:38.45 - 9119 - Automated entry 
+10:00:40.24 - 31700 - Automated entry 
+10:00:42.00 - 1443 - Automated entry 
+10:00:43.90 - 8799 - Automated entry 
+10:00:45.71 - 2404 - Automated entry 
+10:00:47.49 - 6551 - Automated entry 
+10:00:49.24 - 25195 - Automated entry 
+10:00:51.03 - 20 - Automated entry 
+10:00:52.78 - 20827 - Automated entry 
+10:00:54.61 - 26290 - Automated entry 
+10:00:56.37 - 13143 - Automated entry 
+10:00:58.17 - 28376 - Automated entry 
+10:00:59.95 - 16823 - Automated entry 
+10:01:01.72 - 15327 - Automated entry 
+10:01:03.47 - 11341 - Automated entry 
+10:01:05.22 - 22727 - Automated entry 
+10:01:06.97 - 19130 - Automated entry 
+10:01:08.71 - 31913 - Automated entry 
+10:01:10.46 - 17844 - Automated entry 
+10:01:12.22 - 11130 - Automated entry 
+10:01:14.04 - 24358 - Automated entry 
+10:01:15.83 - 24089 - Automated entry 
+10:01:17.59 - 30857 - Automated entry 
+10:01:19.52 - 29645 - Automated entry 
+10:01:21.33 - 12533 - Automated entry 
+10:01:23.10 - 146 - Automated entry 
+10:01:24.85 - 175 - Automated entry 
+10:01:26.71 - 26342 - Automated entry 
+10:01:28.50 - 9801 - Automated entry 
+10:01:30.23 - 24826 - Automated entry 
+10:01:32.01 - 6535 - Automated entry 
+10:01:33.73 - 31859 - Automated entry 
+10:01:35.45 - 6822 - Automated entry 
+10:01:37.21 - 25882 - Automated entry 
+10:01:38.96 - 26817 - Automated entry 
+10:01:40.69 - 32306 - Automated entry 
+10:01:42.47 - 16479 - Automated entry 
+10:01:44.24 - 1864 - Automated entry 
+10:01:46.08 - 2930 - Automated entry 
+10:01:47.86 - 12471 - Automated entry 
+10:01:49.52 - 13902 - Automated entry 
+10:01:51.31 - 25923 - Automated entry 
+10:01:53.05 - 31078 - Automated entry 
+10:01:54.78 - 31082 - Automated entry 
+10:01:56.59 - 9672 - Automated entry 
+10:01:58.30 - 13918 - Automated entry 
+10:02:00.09 - 12983 - Automated entry 
+10:02:01.83 - 9679 - Automated entry 
+10:02:03.61 - 31952 - Automated entry 
+10:02:05.43 - 27873 - Automated entry 
+10:02:07.23 - 27550 - Automated entry 
+10:02:09.00 - 14346 - Automated entry 
+10:02:10.73 - 6283 - Automated entry 
+10:02:12.47 - 1708 - Automated entry 
+10:02:14.24 - 10890 - Automated entry 
+10:02:16.06 - 23714 - Automated entry 
+10:02:17.92 - 29685 - Automated entry 
+10:02:19.76 - 20765 - Automated entry 
+10:02:21.50 - 3183 - Automated entry 
+10:02:23.33 - 28037 - Automated entry 
+10:02:25.12 - 11985 - Automated entry 
+10:02:26.91 - 9268 - Automated entry 
+10:02:28.59 - 9057 - Automated entry 
+10:02:30.37 - 9804 - Automated entry 
+10:02:32.18 - 230 - Automated entry 
+10:02:34.23 - 22773 - Automated entry 
+10:02:36.10 - 9057 - Automated entry 
+10:02:37.81 - 28097 - Automated entry 
+10:02:39.51 - 28008 - Automated entry 
+10:02:41.30 - 32526 - Automated entry 
+10:02:43.08 - 20855 - Automated entry 
+10:02:44.87 - 22686 - Automated entry 
+10:02:46.61 - 19125 - Automated entry 
+10:02:48.35 - 5562 - Automated entry 
+10:02:50.10 - 26881 - Automated entry 
+10:02:51.94 - 18840 - Automated entry 
+10:02:53.77 - 29250 - Automated entry 
+10:02:55.62 - 19429 - Automated entry 
+10:02:57.45 - 27466 - Automated entry 
+10:02:59.20 - 21148 - Automated entry 
+10:03:00.97 - 11476 - Automated entry 
+10:03:02.79 - 2961 - Automated entry 
+10:03:04.60 - 3422 - Automated entry 
+10:03:06.38 - 15193 - Automated entry 
+10:03:08.16 - 12019 - Automated entry 
+10:03:09.97 - 21624 - Automated entry 
+10:03:11.75 - 14365 - Automated entry 
+10:03:13.53 - 20734 - Automated entry 
+10:03:15.32 - 14747 - Automated entry 
+10:03:17.03 - 10739 - Automated entry 
+10:03:18.86 - 20111 - Automated entry 
+10:03:20.73 - 25413 - Automated entry 
+10:03:22.53 - 13110 - Automated entry 
+10:03:24.33 - 6170 - Automated entry 
+10:03:26.22 - 11895 - Automated entry 
+10:03:27.94 - 4784 - Automated entry 
+10:03:29.65 - 19655 - Automated entry 
+10:03:31.40 - 5165 - Automated entry 
+10:03:33.14 - 7979 - Automated entry 
+10:03:34.93 - 21522 - Automated entry 
+10:03:36.71 - 1896 - Automated entry 
+10:03:38.45 - 15411 - Automated entry 
+10:03:40.17 - 8866 - Automated entry 
+10:03:41.93 - 19794 - Automated entry 
+10:03:43.65 - 11766 - Automated entry 
+10:03:45.45 - 14816 - Automated entry 
+10:03:47.24 - 23759 - Automated entry 
+10:03:48.93 - 28524 - Automated entry 
+10:03:50.73 - 5899 - Automated entry 
+10:03:52.56 - 19644 - Automated entry 
+10:03:54.37 - 1325 - Automated entry 
+10:03:56.16 - 29112 - Automated entry 
+10:03:57.93 - 17196 - Automated entry 
+10:03:59.63 - 16258 - Automated entry 
+10:04:01.45 - 5788 - Automated entry 
+10:04:03.29 - 4719 - Automated entry 
+10:04:05.64 - 11076 - Automated entry 
+10:04:07.59 - 19654 - Automated entry 
+10:04:09.35 - 12651 - Automated entry 
+10:04:11.21 - 16491 - Automated entry 
+10:04:12.99 - 21329 - Automated entry 
+10:04:14.75 - 14043 - Automated entry 
+10:04:16.50 - 25526 - Automated entry 
+10:04:18.31 - 4654 - Automated entry 
+10:04:20.07 - 30046 - Automated entry 
+10:04:21.85 - 5876 - Automated entry 
+10:04:23.66 - 19442 - Automated entry 
+10:04:25.46 - 11814 - Automated entry 
+10:04:27.15 - 22705 - Automated entry 
+10:04:28.94 - 10121 - Automated entry 
+10:04:30.74 - 18886 - Automated entry 
+10:04:32.52 - 2096 - Automated entry 
+10:04:34.29 - 10565 - Automated entry 
+10:04:36.09 - 3581 - Automated entry 
+10:04:37.90 - 12572 - Automated entry 
+10:04:39.93 - 6234 - Automated entry 
+10:04:41.87 - 25467 - Automated entry 
+10:04:43.62 - 26493 - Automated entry 
+10:04:45.40 - 13177 - Automated entry 
+10:04:47.72 - 28397 - Automated entry 
+10:04:49.59 - 10252 - Automated entry 
+10:04:51.35 - 7467 - Automated entry 
+10:04:53.08 - 29577 - Automated entry 
+10:04:54.89 - 18859 - Automated entry 
+10:04:56.65 - 3138 - Automated entry 
+10:04:58.52 - 17276 - Automated entry 
+10:05:00.68 - 30463 - Automated entry 
+10:05:02.41 - 3669 - Automated entry 
+10:05:04.19 - 14952 - Automated entry 
+10:05:06.48 - 2270 - Automated entry 
+10:05:08.49 - 27292 - Automated entry 
+10:05:10.39 - 20080 - Automated entry 
+10:05:12.23 - 30335 - Automated entry 
+10:05:14.30 - 30623 - Automated entry 
+10:05:16.05 - 27788 - Automated entry 
+10:05:17.79 - 14409 - Automated entry 
+10:05:19.56 - 23346 - Automated entry 
+10:05:21.52 - 3850 - Automated entry 
+10:05:23.26 - 20729 - Automated entry 
+10:05:25.01 - 6455 - Automated entry 
+10:05:27.01 - 25356 - Automated entry 
+10:05:28.71 - 30675 - Automated entry 
+10:05:30.50 - 5339 - Automated entry 
+10:05:32.22 - 21792 - Automated entry 
+10:05:33.90 - 4585 - Automated entry 
+10:05:35.65 - 22453 - Automated entry 
+10:05:37.38 - 29453 - Automated entry 
+10:05:39.15 - 30526 - Automated entry 
+10:05:40.91 - 21162 - Automated entry 
+10:05:42.71 - 2137 - Automated entry 
+10:05:44.48 - 20390 - Automated entry 
+10:05:46.25 - 16419 - Automated entry 
+10:05:48.07 - 23853 - Automated entry 
