@@ -231847,3 +231847,4 @@
  2:30:00.15 - 4544 - Automated entry 
  2:30:04.48 - 9877 - Automated entry 
  2:30:08.92 - 28492 - Automated entry 
+ 2:30:12.73 - 2999 - Automated entry 
